@@ -1,0 +1,50 @@
+---
+author: "Diogo Neiss"
+title: "IA, startups e desenvolvimento web"
+output: powerpoint_presentation
+---
+
+
+# Inteligência artificial
+
+
+
+## O que é um algoritmo?
+
+Conjunto das regras e procedimentos lógicos definidos que levam à solução de um problema.
+
+## O que é um algoritmo "inteligente"?
+
+É um algoritmo capaz de resolver um problema que não foi explicitamente programado para resolver, ou seja, buscando ele mesmo a solução.
+
+Para tal, ele tenta imitir a habilidade cognitiva humana, em suas técnicas e processos.
+
+Exemplo: Machine learning e regressão linear
+
+## 
+
+Problema: como achar uma função para um fenômeno com leis desconhecidas?
+
+Resposta: Regressão (nesse caso, linear, que é a mais simples)
+
+(inserir dispersão e regressão linear simples)
+
+##
+
+Entretando, o computador não sabe quando a regressão linear está "boa" ou "péssima".
+É necessário criar uma função capaz de avaliar a regressão linear feita, e dessa maneira automaticamente ajustar os parâmetros.
+
+Esta função se chama "função de custo".
+
+##
+
+"chutar" parâmetros da função -> testar -> ver por quanto errou -> tentar novamente, até a quase perfeição.
+
+(inserir gif que eu ia usar no vídeo)
+
+## video
+
+## Deep learning
+
+Aplicação de Machine learning em um ambiente de "neurônios", de forma a dividir o problema em subtarefas.
+
